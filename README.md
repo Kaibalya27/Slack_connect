@@ -106,29 +106,6 @@ Open \`http://localhost:3000\`
 
 ---
 
-## 📦 Deployment
-
-### 🟨 Backend (Render)
-
-- Create a new web service from GitHub
-- Set root to \`/backend\`
-- Add the same \`.env\` values in the Render dashboard
-- Set start command:
-  \`\`\`bash
-  npx ts-node src/app.ts
-  \`\`\`
-
-### 🟩 Frontend (Vercel)
-
-- Import project from GitHub
-- Set root to \`/frontend\`
-- Add:
-  \`\`\`env
-  NEXT_PUBLIC_API_URL=[https://your-backend.onrender.com](https://slack-connect-backend.onrender.com)
-  \`\`\`
-
----
-
 ## 🧠 Architectural Overview
 
 - **Slack OAuth**: OAuth flow with token exchange and refresh handling
