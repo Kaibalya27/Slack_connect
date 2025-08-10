@@ -133,9 +133,3 @@ Open \`http://localhost:3000\`
 ## 📬 Feedback or Suggestions?
 
 Feel free to open an issue or create a PR — always happy to improve this!
-
----
-
-## 📄 License
-
-MIT License
