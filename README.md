@@ -3,11 +3,6 @@
 
 Slack Connect is a full-stack web application that allows users to connect their Slack workspace, compose messages, send them immediately, or schedule them for future delivery — with automatic token refresh and secure integration.
 
-## 🌐 Live Demo
-
-Frontend (Vercel): [https://slack-connect-eta.vercel.app/](https://slack-connect-eta.vercel.app/)
-Backend (Render): [https://slack-connect-backend.onrender.com](https://slack-connect-backend.onrender.com)
-
 ---
 
 ## 📌 Features
