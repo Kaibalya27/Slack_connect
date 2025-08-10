@@ -24,7 +24,6 @@ Slack Connect is a full-stack web application that allows users to connect their
 | Backend     | Node.js, Express, TypeScript   |
 | Database    | MongoDB Atlas                  |
 | Auth        | Slack OAuth 2.0                |
-| Deployment  | Vercel (frontend), Render (backend) |
 
 ---
 
